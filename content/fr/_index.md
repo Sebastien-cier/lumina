@@ -1,5 +1,5 @@
 ---
-author: Mark Dumay
+author: Sébastien Cier
 title: Lumina Productions
 ---
 

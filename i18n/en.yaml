@@ -14,17 +14,17 @@
 - id: readMore
   translation: "Read More"
 - id: moreBlog
-  translation: "More Posts"
+  translation: "More"
 - id: olderBlog
-  translation: "Older Posts"
+  translation: "Older achievements"
 - id: recentBlog
-  translation: "Recent Posts"
+  translation: "Recent achievements"
 - id: newerBlog
-  translation: "Newer Posts"
+  translation: "Newer achievements"
 - id: previousBlog
-  translation: "Previous Post"
+  translation: "Previous achievement"
 - id: nextBlog
-  translation: "Next Post"
+  translation: "Next achievement"
 - id: recentProjects
   translation: "Projects"
 - id: moreFeatures
@@ -34,7 +34,7 @@
 - id: moreOpensource
   translation: "More Features"
 - id: moreProjects
-  translation: "More Projects"
+  translation: "More"
 - id: moreUsers
   translation: "More Users"
 - id: read

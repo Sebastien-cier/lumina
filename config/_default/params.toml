@@ -95,7 +95,7 @@
 # toml-docs-start sections
 [sections]
     [sections.blog]
-        title = "Blog"
+        title = "Réalisations"
         sort = "date"
         reverse = true
         nested = true
@@ -109,10 +109,10 @@
         homepage = 3
         separator = true
     [sections.projects]
-        title = "Projects"
+        title = "Productions"
         layout = "card"
         sort = "title"
-        reverse = false
+        reverse = true
         nested = true
         cols = 1
         background = "body-tertiary"
@@ -122,7 +122,7 @@
         footer = "tags"
         orientation = "horizontal"
         style = "border-1 card-emphasize"
-        homepage = 3
+        homepage = 2
         separator = false
 # toml-docs-end sections
 

@@ -9,32 +9,38 @@
   weight = 10
 
 [[main]]
-  name = "Productions"
+  name = "Achievements"
   url = "/blog/"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Productions"
   url = "/projects/"
   weight = 30
 
 [[main]]
-  name = "Sample project"
-  url = "/projects/sample-project/"
-  parent = "Projects"
-  weight = 1
+name = "Marriage"
+url = "/projects/mariage/"
+parent = "Productions"
+weight = 1
 
 [[main]]
-  name = "Another project"
-  url = "/projects/another-project/"
-  parent = "Projects"
-  weight = 2
+name = "Event"
+url = "/projects/evenement/"
+parent = "Productions"
+weight = 2
 
 [[main]]
-  name = "Another other"
-  url = "/projects/another-project2/"
-  parent = "Projects"
-  weight = 3
+name = "Interview"
+url = "/projects/interview/"
+parent = "Productions"
+weight = 3
+
+[[main]]
+name = "Business"
+url = "/projects/entreprise/"
+parent = "Productions"
+weight = 4
 
 [[main]]
   name = "Tags"

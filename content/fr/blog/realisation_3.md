@@ -3,7 +3,7 @@ author: Sébastien CIER
 title: Titre Vidéo 3
 date: 2023-05-20
 description: description vidéo 3
-tags: ["production", "mariage", "film"]
+tags: ["evenement"]
 thumbnail: img/production1.png
 ---
 
