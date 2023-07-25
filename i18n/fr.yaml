@@ -159,3 +159,18 @@
 # Draft
 - id: draft
   translation: "Brouillon"
+
+- id: yourName
+  translation: "Votre nom"
+
+- id: emailAddress
+  translation: "Adresse e-mail"
+
+- id: message
+  translation: "Message"
+
+- id: emailRequiredNote
+  translation: "Une adresse e-mail est requise."
+
+- id: send
+  translation: "Envoyer"

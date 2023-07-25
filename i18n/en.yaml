@@ -159,3 +159,18 @@
 # Draft
 - id: draft
   translation: "Draft"
+
+- id: yourName
+  translation: "Your Name"
+
+- id: emailAddress
+  translation: "Email Address"
+
+- id: message
+  translation: "Message"
+
+- id: emailRequiredNote
+  translation: "An email address is required."
+
+- id: send
+  translation: "Send"

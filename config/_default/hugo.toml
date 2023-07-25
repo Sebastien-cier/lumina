@@ -1,6 +1,6 @@
 # toml-docs-start main
 title = "Lumina Productions"
-copyright = "Copyright © 2023 Mark Dumay."
+copyright = "Copyright © 2023 Lumina Productions"
 paginate = 9
 enableGitInfo = true
 # toml-docs-end main

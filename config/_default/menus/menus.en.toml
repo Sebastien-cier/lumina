@@ -48,6 +48,11 @@ url = "/galery/"
 weight = 35
 
 [[main]]
+name = "Contact"
+url = "/contact/"
+weight = 36
+
+[[main]]
   name = "Tags"
   url = "/tags/"
   weight = 40
