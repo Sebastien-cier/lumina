@@ -1,0 +1,161 @@
+# Content
+- id: about
+  translation: "A propos"
+- id: postedOnDate
+  translation: "Posté le {{ . }}"
+- id: lastModified
+  translation: "modifié le {{ . }}"
+- id: translationsLabel
+  translation: "Autres languages: "
+- id: translationsSeparator
+  translation: ", "
+- id: more
+  translation: "Plus {{ . }}"
+- id: readMore
+  translation: "Lire plus"
+- id: moreBlog
+  translation: "Plus"
+- id: olderBlog
+  translation: "Plus anciens"
+- id: recentBlog
+  translation: "Plus récent"
+- id: newerBlog
+  translation: "Nouvelles réalisations"
+- id: previousBlog
+  translation: "Anciennes réalisations"
+- id: nextBlog
+  translation: "Prochaine réalisation"
+- id: recentProjects
+  translation: "Projets"
+- id: moreFeatures
+  translation: "More Features"
+- id: moreGuides
+  translation: "More Guides"
+- id: moreOpensource
+  translation: "More Features"
+- id: moreProjects
+  translation: "Plus de projets"
+- id: moreUsers
+  translation: "More Users"
+- id: read
+  translation: "lecture"
+- id: minutesShort
+  translation: "min"
+- id: words
+  translation: "mots"
+- id: copyright
+  translation: "Copyright"
+- id: rights
+  translation: "Tous droits réservés"
+- id: photoBy
+  translation: "Photo par"
+- id: photoOn
+  translation: "sur"
+- id: article
+  translation: "Article"
+- id: articles
+  translation: "Articles"
+- id: paginationNav
+  translation: "Page navigation"
+- id: paginationPrevious
+  translation: "Page précédente"
+- id: paginationNext
+  translation: "Page suivante"
+- id: paginationFirst
+  translation: "Première page"
+- id: paginationLast
+  translation: "Dernière page"
+- id: toggleSidebar
+  translation: "Toggle sidebar navigation"
+- id: colorMode
+  translation: "Changer de thème"
+- id: colorLight
+  translation: "Light"
+- id: colorDark
+  translation: "Dark"
+- id: colorAuto
+  translation: "Auto"
+- id: toggleMainNav
+  translation: "Toggle main navigation"
+- id: demo
+  translation: "Demo"
+- id: addedFeature
+  translation: "Ajouté le"
+- id: deprecatedFeature
+  translation: "Deprecated in"
+- id: shareLink
+  translation: "Partager via"
+- id: copiedToClipboard
+  translation: "copied to clipboard"
+- id: link
+  translation: "Lien"
+- id: code
+  translation: "Code"
+- id: latest
+  translation: "dernier"
+- id: allVersions
+  translation: "All versions"
+- id: newerVersionAlert
+  translation: "There is a newer version of {{ . }}!"
+
+# 404 page
+- id: pageNotFound
+  translation: "The page you are looking for does not exist or another error occurred. Try going back to our"
+- id: pageNotFoundTitle
+  translation: "Page not found"
+- id: pageNotFoundHome
+  translation: "home page"
+
+# Navigation
+- id: toggleNavigation
+  translation: "Toggle navigation"
+- id: languageSwitcherLabel
+  translation: "Langage"
+- id: gcseLabelShort
+  translation: "Search"
+- id: gcseLabelLong
+  translation: "Search {{ .Site.Title }}"
+- id: gcseClose
+  translation: "Fermer"
+- id: home
+  translation: "Home"
+
+# Staticman
+- id: noComment
+  translation: "No comment"
+- id: oneComment
+  translation: "comment"
+- id: moreComment
+  translation: "comments"
+- id: useMarkdown
+  translation: "You can use Markdown syntax"
+- id: yourName
+  translation: "Your name"
+- id: yourEmail
+  translation: "Your email address"
+- id: yourWebsite
+  translation: "You website"
+
+# Delayed Disqus
+- id: show
+  translation: "Show"
+- id: comments
+  translation: "Comments" 
+
+# Related posts
+- id: seeAlso
+  translation: "Voir aussi"
+
+# Table of contents
+- id: toc
+  translation: "Sur cette page"
+
+# Search
+- id: ui_search
+  translation: "Search this site..."
+- id: ui_no_results
+  translation: "No results for"
+
+# Draft
+- id: draft
+  translation: "Brouillon"
