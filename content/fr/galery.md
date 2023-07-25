@@ -5,7 +5,7 @@ updated: 2023-02-11
 showComments: false
 ---
 
-{{< carousel ratio="16x9" class="col-sm-16 col-lg-8 mx-auto" >}}
+{{< carousel ratio="16x9" class="col-sm-12 col-lg-16 mx-auto" >}}
 {{< img src="img/coffee.jpg" caption="slide 1" >}}
 {{< img src="img/phone.jpg" caption="slide 2" >}}
 {{< img src="img/dunes.jpg" caption="slide 3" >}}
