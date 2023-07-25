@@ -43,6 +43,11 @@ parent = "Productions"
 weight = 4
 
 [[main]]
+name = "Galery"
+url = "/galery/"
+weight = 35
+
+[[main]]
   name = "Tags"
   url = "/tags/"
   weight = 40
