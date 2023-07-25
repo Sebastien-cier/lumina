@@ -5,10 +5,10 @@ updated: 2023-02-11
 showComments: false
 ---
 
-{{< figure src="/img/photo.jpg" title="Horia POP" >}}
+{{< image src="/img/photo.jpg" caption="Horia POP" >}}
 
 blablabla
 
-{{< figure src="/img/photo.jpg" title="Sebastien CIER" >}}
+{{< image src="/img/photo.jpg" caption="Sebastien CIER" >}}
 
 blablabla

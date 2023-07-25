@@ -6,7 +6,7 @@ enableGitInfo = true
 # toml-docs-end main
 
 # additional settings
-#googleAnalytics = ""
+googleAnalytics = "G-RR53N0ENZG"
 baseURL = "http://localhost:1313/lumina/"
 canonifyURLs = true
 enableEmoji = true
