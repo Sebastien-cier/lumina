@@ -1,9 +1,8 @@
 ---
 author: Mark Dumay
-title: Vierde artikel
-slug: vierde-artikel
+title: Fourth post
 date: 2023-01-01
-description: Dit is mijn vierde artikel.
+description: This is my fourth blog post.
 tags: ["blog"]
 thumbnail: img/flowers.jpg # https://picsum.photos/id/106/2592/1728
 photoCredits: <a href="https://unsplash.com/@flutterhappy">Arvee Marie</a>

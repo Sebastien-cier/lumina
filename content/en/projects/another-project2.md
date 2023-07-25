@@ -1,10 +1,8 @@
 ---
-author: "Hugo Authors"
-slug: "ander-project"
-title: "Ander project"
-url: "projecten/ander-project"
+author: Mark Dumay
+title: Another project
 date: 2021-07-15
-description: "Een ander project."
+description: Another project.
 tags: ["javascript", "golang"]
 icon: fas rocket
 ---

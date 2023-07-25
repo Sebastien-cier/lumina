@@ -1,9 +1,8 @@
 ---
 author: Mark Dumay
-title: Tweede artikel
-slug: tweede-artikel
+title: Second post
 date: 2022-11-01
-description: Dit is mijn tweede artikel.
+description: This is my second blog post.
 tags: ["blog"]
 thumbnail: img/phone.jpg # https://picsum.photos/id/160/3200/2119
 photoCredits: <a href="https://unsplash.com/@thomweerd">Thom</a> 

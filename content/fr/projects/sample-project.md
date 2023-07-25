@@ -1,10 +1,8 @@
 ---
-author: "Hugo Authors"
-slug: "voorbeeldproject"
-title: "Voorbeeldproject"
-url: "projecten/voorbeeldproject"
+author: Hugo Authors
+title: Sample project
 date: 2021-07-15
-description: "Een voorbeeldproject."
+description: A sample project.
 tags: ["html", "css"]
 icon: fab docker
 ---

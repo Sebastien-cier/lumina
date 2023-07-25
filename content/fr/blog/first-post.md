@@ -1,9 +1,8 @@
 ---
 author: Mark Dumay
-title: Eerste artikel
-slug: eerste-artikel
+title: First post
 date: 2022-10-01
-description: Dit is mijn eerste artikel.
+description: This is my first blog post.
 tags: ["blog"]
 thumbnail: img/notepad.jpg
 photoCredits: <a href="https://unsplash.com/@frederickjmedina">Frederick Medina</a>

@@ -1,33 +1,44 @@
 [[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
   name = "About"
-  pageRef = "/about/"
+  url = "/about/"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  pageRef = "/blog/"
+  name = "Productions"
+  url = "/blog/"
   weight = 20
 
 [[main]]
   name = "Projects"
-  pageRef = "/projects/"
+  url = "/projects/"
   weight = 30
 
 [[main]]
   name = "Sample project"
-  pageRef = "/projects/sample-project/"
+  url = "/projects/sample-project/"
   parent = "Projects"
   weight = 1
 
 [[main]]
   name = "Another project"
-  pageRef = "/projects/another-project/"
+  url = "/projects/another-project/"
   parent = "Projects"
   weight = 2
 
 [[main]]
+  name = "Another other"
+  url = "/projects/another-project2/"
+  parent = "Projects"
+  weight = 3
+
+[[main]]
   name = "Tags"
-  pageRef = "/tags/"
+  url = "/tags/"
   weight = 40
 
 [[social]]
@@ -48,26 +59,24 @@
   url = "https://medium.com/"
   weight = 30
 
-# toml-docs-start sample-navigation
 [[sample]]
   name = "Blog"
-  pageRef = "/blog/"
+  url = "/blog/"
   weight = 10
 
 [[sample]]
   name = "Projects"
-  pageRef = "/projects/"
+  url = "/projects/"
   weight = 20
 
 [[sample]]
   name = "Sample project"
-  pageRef = "/projects/sample-project/"
+  url = "/projects/sample-project/"
   parent = "Projects"
   weight = 1
 
 [[sample]]
   name = "Another project"
-  pageRef = "/projects/another-project/"
+  url = "/projects/another-project/"
   parent = "Projects"
   weight = 2
-# toml-docs-end sample-navigation

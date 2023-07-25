@@ -1,14 +1,14 @@
 # toml-docs-start main
-title = "Hinode"
+title = "Lumina Productions"
 copyright = "Copyright © 2023 Mark Dumay."
 paginate = 9
 enableGitInfo = true
 # toml-docs-end main
 
 # additional settings
-googleAnalytics = "G-T85PPZ36GN"
-baseURL = "https://demo.gethinode.com/"
-canonifyURLs = false
+#googleAnalytics = ""
+baseURL = "http://localhost:1313/lumina/"
+canonifyURLs = true
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
@@ -23,8 +23,8 @@ timeout = "180s"
 
 # toml-docs-start language
 languageCode = "en-us"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
 # toml-docs-end language
 
 # toml-docs-start redirect

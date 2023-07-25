@@ -1,9 +1,8 @@
 ---
 author: Mark Dumay
-title: Derde artikel
-slug: derde-artikel
+title: Third post
 date: 2022-12-01
-description: Dit is mijn derde artikel.
+description: This is my third blog post.
 tags: ["blog"]
 thumbnail: https://picsum.photos/id/184/4288/2848.jpg
 photoCredits: <a href="https://unsplash.com/@timdegroot">Tim de Groot</a>
