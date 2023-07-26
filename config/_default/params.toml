@@ -3,7 +3,7 @@
     separator = "-"
     description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
     enableDarkMode = true
-    modes = ["light", "dark"]
+    modes = ["dark", "light"]
 # toml-docs-end main
 
 # toml-docs-start modules
@@ -29,24 +29,24 @@
 
 # toml-docs-start home
 [home]
-    sections = ["blog", "projects"]
+    sections = []
     featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
-    fullCover = false
+    fullCover = true
     centerHeadline = false
-    style = ""
+    style = "test-homepage"
 # toml-docs-end home
 
 # toml-docs-start navigation
 [navigation]
-    anchor = true
+    anchor = false
     logo = ""
     color = "body"
     fixed = true
     offset = "3.8em"
     search = false
-    breadcrumb = true
-    toc = true
-    sidebar = true
+    breadcrumb = false
+    toc = false
+    sidebar = false
 # toml-docs-end navigation
 
 # toml-docs-start messages
@@ -56,7 +56,7 @@
 
 # toml-docs-start sharing
 [sharing]
-    enabled = true
+    enabled = false
     sort = "weight"
     reverse = false
 
@@ -99,7 +99,7 @@
         sort = "date"
         reverse = true
         nested = true
-        cols = 3
+        cols = 1
         color = ""
         padding = "0"
         header = "full"

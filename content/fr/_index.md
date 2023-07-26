@@ -1,6 +1,4 @@
 ---
 author: Sébastien Cier
-title: Lumina Productions
+title: 
 ---
-
-Société de production audiovisuelle

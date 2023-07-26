@@ -4,12 +4,12 @@ contentDir = "content/fr"
 weight = 1
 [fr.params.head]
 tagline = "Thema"
-[fr.params.feature]
-link = "about"
-caption = "A propos"
+#[fr.params.feature]
+#link = "about"
+#caption = "A propos"
 [fr.params.footer]
 license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
-socialTitle = "Suivez nous"
+#socialTitle = "Suivez nous"
 socialCaption = ""
 
 [en]
@@ -18,11 +18,11 @@ contentDir = "content/en"
 weight = 2
 [en.params.head]
 tagline = "A Hugo Theme"
-[en.params.feature]
-link = "about"
-caption = "About"
+#[en.params.feature]
+#link = "about"
+#caption = "About"
 [en.params.footer]
 license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
-socialTitle = "Follow us"
+#socialTitle = "Follow us"
 socialCaption = ""
 

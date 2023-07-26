@@ -1,5 +1,6 @@
 {{- define "featured" -}}
-    {{- partial "home/featured.html" . -}}
+    <!--{{- partial "home/featured.html" . -}}-->
+    {{- partial "assets/image-index.html" (dict "url" .Site.Params.home.featurePhoto "ratio" "4x3" "outerClass" "img-wrap" "innerClass" "rounded" "title" .Site.Title) -}}
 {{- end -}}
 
 {{- define "main" -}}
