@@ -61,60 +61,44 @@
          url('../fonts/inter-v12-latin-600.svg#Inter') format('svg'); /* Legacy iOS */
   }
 
-  .slider {
-    width: 800px;
-    margin: 30px auto;
-    position: relative;
+  .d1{
+      min-height: 100%;
+        min-width: 100%;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+      animation: fondu 30s ease-in-out infinite both;
   }
-  .slider-viewport {
-    width: 800px;
-    height: 400px;
-    overflow: hidden;
+  .conteneur{
+      min-height: 100%;
+        min-width: 100%;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
   }
-  .slider-content {
-    display: grid;
-    grid-auto-flow: column;
-    -webkit-transition: 1s all;
-    transition: 1s all;
+  .d2{
+      min-height: 100%;
+        min-width: 100%;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+      animation: fondu 30s ease-in-out infinite both;
   }
-  .slider-content img {
-    width: 800px;
-    height: 400px;
+  .d1:hover, .d2:hover{
+      animation-play-state: paused;
   }
-  .slider-nav {
-    position: absolute;
-    width: 100%;
-    bottom: -30px;
-    margin-top: 10px;
-    text-align: center;
-  }
-  .slider-nav a {
-    -webkit-box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 0.3);
-            box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 0.3);
-    display: inline-block;
-    background-color: #adafbc;
-    width: 15px;
-    height: 15px;
-    margin: 0 3px;
-  }
-  .slider-nav a:hover {
-    background-color: #fff;
-    -webkit-box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 0.8);
-            box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 0.8);
-  }
-  #img2:target .slider-content {
-    -webkit-transform: translateX(-800px);
-            transform: translateX(-800px);
-  }
-  #img3:target .slider-content {
-    -webkit-transform: translateX(-1600px);
-            transform: translateX(-1600px);
-  }
-  #img4:target .slider-content {
-    -webkit-transform: translateX(-2400px);
-            transform: translateX(-2400px);
-  }
-  #img5:target .slider-content {
-    -webkit-transform: translateX(-3200px);
-            transform: translateX(-3200px);
+  @keyframes fondu{
+      0%{background-image: url("../img/bird.jpg");}
+      33.33%{background-image: url("../img/dunes.jpg");}
+      66.67%{background-image: url("../img/flowers.jpg");}
+      100%{background-image: url("../img/sunrise.jpg");}
   }
