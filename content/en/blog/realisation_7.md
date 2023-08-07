@@ -4,7 +4,7 @@ title: Titre Vidéo 7 anglais
 date: 2023-05-20
 description: description vidéo 7 anglais
 tags: ["business"]
-thumbnail: img/production1.png
+thumbnail: img/production1.jpg
 ---
 
 blablabla anglais

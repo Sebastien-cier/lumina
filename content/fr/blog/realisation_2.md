@@ -4,8 +4,9 @@ title: Titre Vidéo 2
 date: 2023-05-20
 description: description vidéo 2
 tags: ["entreprise"]
-thumbnail: img/production1.png
+thumbnail: img/production1.jpg
 ---
+{{< image src="img/production1.jpg" class="rounded" >}}
 
 blablabla
 
