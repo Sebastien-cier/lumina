@@ -8,10 +8,10 @@ name = "A Propos"
 url = "/about/"
 weight = 10
 
-#[[main]]
-#name = "Réalisations"
-#url = "/blog/"
-#weight = 20
+[[main]]
+name = "Productions"
+url = "/blog/"
+weight = 20
 
 #[[main]]
 #name = "Productions"
@@ -42,10 +42,10 @@ weight = 10
 #parent = "Productions"
 #weight = 4
 
-[[main]]
-name = "Projets"
-url = "/galery/"
-weight = 35
+#[[main]]
+#name = "Projets"
+#url = "/galery/"
+#weight = 35
 
 [[main]]
 name = "Contact"
