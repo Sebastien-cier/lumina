@@ -7,7 +7,7 @@ tags: ["mariage"]
 thumbnail: img/production1.jpg
 ---
 
-{{< image src="img/production1.jpg" class="rounded" >}}
+{{< image src="img/production1.jpg" class="rounded" title="video 1">}}
 
 blablabla
 

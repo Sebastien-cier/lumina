@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "productions audiovisuelles evenementiel mariages"
     enableDarkMode = true
     modes = ["dark", "light"]
 # toml-docs-end main
@@ -22,8 +22,8 @@
 
 # toml-docs-start docs
 [docs]
-    github = "https://github.com/gethinode/hinode"
-    release = "https://github.com/gethinode/hinode/releases/tag/"
+    github = ""
+    release = ""
     checkVersion = false
 # toml-docs-end docs
 
@@ -152,18 +152,18 @@
 # toml-docs-end build
 
 [schema]
-    type = "Organization"
-    name = "Hinode"
-    locale = "en-US"
+    type = "production audiovisuelle"
+    name = "Lumina"
+    locale = "fr-FR"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
     github = "https://github.com/gethinode/hinode"
     section = "blog"
     [author]
-        name = "Mark Dumay"
+        name = "sebastien cier"
         # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        #linkedin = "https://www.linkedin.com/in/markdumay/"
+        #github = "https://github.com/markdumay"
     [logo]
         url = "img/logo512x512.png"
         width = 512
