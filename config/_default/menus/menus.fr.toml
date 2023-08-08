@@ -10,7 +10,7 @@ weight = 10
 
 [[main]]
 name = "Productions"
-url = "/blog/"
+url = "/productions/"
 weight = 20
 
 #[[main]]

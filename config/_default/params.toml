@@ -94,8 +94,8 @@
 
 # toml-docs-start sections
 [sections]
-    [sections.blog]
-        title = "Réalisations"
+    [sections.productions]
+        title = "Productions"
         sort = "date"
         reverse = true
         nested = true
