@@ -59,3 +59,7 @@ icon: fa building
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>En choisissant Mille Routes, Une Vie pour la création de votre film institutionnel, vous bénéficiez d'une équipe spécialisée qui mettra tout en œuvre pour captiver votre public cible, mettre en valeur votre entreprise et raconter une histoire unique. Contactez-nous dès aujourd'hui pour donner vie à votre message à travers un film institutionnel de haute qualité.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
+<p style='margin:0cm;font-size:16px;'>&nbsp;</p>
+<p style='margin:0cm;font-size:16px;text-align:justify;'><a class="previous" href="/contact"><strong><em>Contactez-nous </em></strong><i class="fas fa-envelopes-bulk"></i></a></p>
+<p style='margin:0cm;font-size:16px;'>&nbsp;</p>
+<p style='margin:0cm;font-size:16px;'>&nbsp;</p>
