@@ -2,19 +2,16 @@
 author: Sébastien Cier
 title: Entreprises
 date: 2021-07-15
-description: Films d'entreprises
+description: Créez un impact avec nos films institutionnels sur mesure
 icon: fa building
 ---
 
-<h1>Créez un impact avec nos films institutionnels sur mesure</h1>
-<p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<h2>Qu'est-ce qu'un film institutionnel ?</h2>
+<h3>Qu'est-ce qu'un film institutionnel ?</h3>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;Un film institutionnel est bien plus qu'une simple vidéo d'entreprise. C'est un outil puissant qui raconte l'histoire de votre entreprise, met en avant vos valeurs, vos produits et services, et renforce votre image de marque. Chez Mille Routes, Une Vie, nous comprenons l'importance de créer un film institutionnel unique et percutant qui reflète l'essence de votre entreprise.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<h2>Les différents types de films institutionnels que nous proposons</h2>
+<h3>Les différents types de films institutionnels que nous proposons</h3>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'><strong><em>Films promotionnels :</em></strong>&nbsp;Mettez en avant vos produits ou services de manière percutante et persuasive. Utilisez des techniques de narration et des visuels attrayants pour captiver votre public et susciter l'intérêt pour ce que vous avez à offrir.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
@@ -33,7 +30,7 @@ icon: fa building
 <p style='margin:0cm;font-size:16px;text-align:justify;'>En offrant une variété de types de films institutionnels, vous pouvez choisir celui qui correspond le mieux à vos objectifs et à votre message. Chez Mille Routes, Une Vie, nous sommes là pour vous guider et vous aider à créer le film institutionnel qui répondra à vos besoins spécifiques.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<h2>Les étapes de création de nos films institutionnels</h2>
+<h3>Les étapes de création de nos films institutionnels</h3>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>Nous travaillons en étroite collaboration avec vous pour créer un film institutionnel sur mesure qui répond à vos besoins et à vos objectifs. Nos étapes de création comprennent :</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
@@ -46,7 +43,7 @@ icon: fa building
 <p style='margin:0cm;font-size:16px;text-align:justify;'><strong><em>Livraison :</em></strong>&nbsp;Nous vous livrons la vidéo finale dans le format souhaité, prête à être diffusée et partagée. Nous sommes là pour vous aider à promouvoir votre film institutionnel et à atteindre vos objectifs de communication.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<h2>Les atouts de Mille Routes, Une Vie</h2>
+<h3>Les atouts de Mille Routes, Une Vie</h3>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>Chez Mille Routes, Une Vie, nous sommes spécialisés dans la création de films institutionnels de haute qualité qui vous permettent de communiquer efficacement votre message et de mettre en valeur votre marque. Un film institutionnel est bien plus qu'une simple vidéo d'entreprise. C'est un outil puissant qui raconte l'histoire de votre entreprise, met en avant vos valeurs, vos produits et services, et renforce votre image de marque. Voici pourquoi vous devriez choisir notre entreprise pour la création de votre film institutionnel :</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
