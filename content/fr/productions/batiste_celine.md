@@ -3,9 +3,9 @@ author: Sébastien CIER
 title: Cave La Madeleine
 date: 2023-05-20
 description: 
-thumbnail: img/batiste_celine.png
+thumbnail: img/baptiste_celine.png
 ---
-{{< image src="img/batiste_celine.png" class="rounded" title="production vidéo batiste céline mariage">}}
+{{< image src="img/baptiste_celine.png" class="rounded" title="production vidéo baptiste céline mariage">}}
 
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>

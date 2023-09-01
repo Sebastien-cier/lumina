@@ -3,9 +3,9 @@ author: Sébastien CIER
 title: Cave La Madeleine
 date: 2023-05-20
 description: 
-thumbnail: img/madelaine.jpg
+thumbnail: img/madeleine.jpg
 ---
-{{< image src="img/madelaine.jpg" class="rounded" title="production vidéo madelaine">}}
+{{< image src="img/madeleine.jpg" class="rounded" title="production vidéo madeleine">}}
 
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
