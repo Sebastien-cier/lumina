@@ -3,9 +3,9 @@ author: Sébastien CIER
 title: Toute rencontre est un mystère divin
 date: 2023-05-20
 description: 
-thumbnail: img/baptiste_celine.png
+thumbnail: img/baptiste_celine.jpg
 ---
-{{< image src="img/baptiste_celine.png" class="rounded" title="production vidéo baptiste céline mariage">}}
+{{< image src="img/baptiste_celine.jpg" class="rounded" title="production vidéo baptiste céline mariage">}}
 
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
