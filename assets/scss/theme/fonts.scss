@@ -60,3 +60,13 @@
          url('../fonts/inter-v12-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/inter-v12-latin-600.svg#Inter') format('svg'); /* Legacy iOS */
   }
+
+  @font-face {
+  	font-family: 'linus';
+  	font-weight: 400;
+  	src: url(‘/fonts/Linus.ttf’) format(‘truetype’)
+  }
+
+  .fw-bold {
+    width: 500px !important;
+  }

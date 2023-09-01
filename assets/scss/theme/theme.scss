@@ -23,3 +23,13 @@ min-height: 100%;
   top: 0;
   left: 0;
 }
+
+  @font-face {
+  	font-family: 'linus';
+  	font-weight: 400;
+  	src: url(‘/fonts/Linus.ttf’) format(‘truetype’)
+  }
+
+  .fw-bold {
+    width: 500px !important;
+  }
