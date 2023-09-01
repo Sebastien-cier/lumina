@@ -1,6 +1,6 @@
 ---
 author: Sébastien CIER
-title: Cave La Madeleine
+title: Toute rencontre est un mystère divin
 date: 2023-05-20
 description: 
 thumbnail: img/baptiste_celine.png
