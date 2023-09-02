@@ -1,8 +1,9 @@
 ---
 author: Sébastien CIER
 title: Célestin
-date: 2023-05-20
+date: 2022-07-20
 description: Comédie absurde, 7'33
+tags: ["fiction"]
 thumbnail: img/celestin.jpg
 ---
 {{< image src="img/celestin.jpg" class="rounded" title="production vidéo C&eacute;lestin">}}

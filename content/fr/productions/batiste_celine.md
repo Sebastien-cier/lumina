@@ -1,8 +1,8 @@
 ---
 author: Sébastien CIER
 title: Toute rencontre est un mystère divin
-date: 2023-05-20
-description:
+date: 2023-08-18
+description: Film mariage, 17'07
 tags: ["retro"]
 thumbnail: img/baptiste_celine.jpg
 ---

@@ -1,8 +1,8 @@
 ---
 author: Sébastien CIER
 title: Cave La Madeleine
-date: 2023-05-20
-description:
+date: 2023-08-31
+description: Pub, 0'40
 tags: ["evenement"]
 thumbnail: img/madeleine.jpg
 ---
