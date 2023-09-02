@@ -4,40 +4,15 @@ date: 2022-04-11
 updated: 2023-02-11
 showComments: false
 ---
-<p style='margin:0cm;font-size:16px;'><strong><span style='font-size:32px;font-family:"Linus",sans-serif;'>Voyage dans le temps&nbsp;: votre histoire en images</span></strong></p>
-<p style='margin:0cm;font-size:16px;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&Agrave; partir de vos photographies et de vos vid&eacute;os, nous cr&eacute;erons une histoire originale &agrave; votre image pour vous offrir votre film de mariage, de famille ou d&apos;anniversaire.</p>
-<p style='margin:0cm;font-size:16px;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Les avantages&nbsp;:</strong></p>
-<ul style="list-style-type: disc;margin-left:26px;">
-    <li><span style='>cr&eacute;ation d&apos;un sc&eacute;nario original personnalis&eacute; !&nbsp;</span></li>
-    <li><span style='>Photos anciennes, foues, non cadr&eacute;es ? Peu importe lka qualit&eacute; : nous sublimerons votre album de famille</span></li>
-    <li><span style='>possibilit&eacute; de travailler &agrave; distance&nbsp;!</span></li>
-    <li><span style='>possibilit&eacute; de cr&eacute;er votre film jusqu&apos;&agrave; une semaine avant la date l&apos;&eacute;v&eacute;nement&nbsp;!</span></li>
-</ul>
-<p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'><strong><span style='font-size:32px;font-family:"Linus",sans-serif;'>Capteur d&apos;&eacute;v&eacute;nements</span></strong></p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>Nous couvrons avec dynamisme et professionnalisme votre &eacute;v&eacute;nement artistique ou institutionnel&nbsp;quelle que soit sa forme&nbsp;: classique ou originale&nbsp;: films d&apos;entreprises, captations de pi&egrave;ces de th&eacute;&acirc;tre, interviews...</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Les avantages&nbsp;:</strong></p>
-<div style='margin:0cm;font-size:16px;'>
-    <ul style="margin-bottom:0cm;list-style-type: disc;margin-left:26px;">
-        <li style='margin:0cm;font-size:16px;'>montage express sous 48h apr&egrave;s l&apos;&eacute;v&eacute;nement&nbsp;!</li>
-    </ul>
-</div>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'><span style='font-size:27px;font-family:"Linus",sans-serif;'></span><strong><span style='font-size:32px;font-family:"Linus",sans-serif;'>Mille routes et une vie&nbsp;: tout un h&eacute;ritage&nbsp;!&nbsp;&nbsp;</span></strong></p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;font-family:"Linus",sans-serif;'></span></strong>Prenez le temps de remonter le fil de votre vie &ndash; de vos racines familiales au temps pr&eacute;sent &ndash; pour parler de votre histoire riche &agrave; ceux que vous aimez. Votre biographie film&eacute;e &ndash; classique ou d&eacute;cal&eacute;e &ndash; sera le cadeau original rempli d&apos;amour pour votre famille&nbsp;!</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Les avantages&nbsp;:</strong></p>
-<ul style="list-style-type: disc;margin-left:26px;">
-    <li>possibilit&eacute; de tourner sur les lieux de votre enfance&nbsp;!</li>
-    <li>personne d&apos;autre mieux que vous ne racontera votre histoire !</li>
-</ul>
+<p style='margin:0cm;font-size:16px,serif;'>&nbsp;Horia Alexandru Pop est un v&eacute;ritable <strong>passionn&eacute; de cin&eacute;ma</strong> depuis l&apos;enfance.</p>
+<p style='margin:0cm;font-size:16px,serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p style='margin:0cm;font-size:16px,serif;text-align:justify;'><strong>Auteur bilingue</strong>, &nbsp;il &eacute;crit en fran&ccedil;ais et en anglais des sc&eacute;narii, des nouvelles et des<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;pi&egrave;ces de th&eacute;&acirc;tre. Divers revues litt&eacute;raires publient ses &eacute;crits aux Etats-Unis.</p>
+<p style='margin:0cm;font-size:16px,serif;'><br></p>
+<p style='margin:0cm;font-size:16px,serif;'>Il travaille pour une <strong>agence de communication</strong> : on le forme et lui confie rapidement une &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cam&eacute;ra, des logiciels de montage et un ordinateur. Il s&apos;agira de couvrir l&apos;agenda culturel : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>captations de &nbsp;spectacles</strong>, <strong>vid&eacute;os institutionnelles</strong>, <strong>interviews</strong> des habitants et des &nbsp; &nbsp; &nbsp; &nbsp; personnalit&eacute;s publiques locales, sondages en pleine rue... V&eacute;ritable coup de foudre et &nbsp; &nbsp;&eacute;cole formatrice sur le terrain !</p>
+<p style='margin:0cm;font-size:16px,serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p style='margin:0cm;font-size:16px,serif;text-align:justify;'>Il suit une double <strong>formation d&apos;assistant r&eacute;alisateur et sc&eacute;nariste</strong> dans une &eacute;cole sup&eacute;rieure &nbsp; &nbsp; de cin&eacute;ma &ndash; Cin&eacute;ma Provence.</p>
+<p style='margin:0cm;font-size:16px,serif;'>&nbsp;&nbsp;</p>
+<p style='margin:0cm;font-size:16px,serif;text-align:justify;'>Diplom&eacute;, il poursuit avec l&apos;<strong>&eacute;criture</strong>, la <strong>r&eacute;alisation</strong> et le <strong>montage</strong> &ndash; de films de fiction, institutionnels, des captations de pi&egrave;ces de th&eacute;&acirc;tre, des teasers promotionnels...</p>
+<p style='margin:0cm;font-size:16px,serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p style='margin:0cm;font-size:16px,serif;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A l&apos;&eacute;t&eacute; 2023, <strong><span style='font-size:29px;font-family:"Linus",sans-serif;'>Masimpa Productions</span></strong> est n&eacute;e.</p>
 <p><br></p>

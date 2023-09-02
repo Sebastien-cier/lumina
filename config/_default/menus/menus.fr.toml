@@ -13,6 +13,11 @@ name = "Productions"
 url = "/productions/"
 weight = 20
 
+[[main]]
+name = "Prestations"
+url = "/prestations/"
+weight = 30
+
 #[[main]]
 #name = "Productions"
 #url = "/projects/"
