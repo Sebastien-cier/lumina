@@ -99,7 +99,7 @@
         sort = "date"
         reverse = true
         nested = true
-        cols = 2
+        cols = 3
         color = ""
         padding = "0"
         header = "full"
