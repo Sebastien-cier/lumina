@@ -6,7 +6,7 @@ enableGitInfo = true
 # toml-docs-end main
 
 # additional settings
-googleAnalytics = "G-RR53N0ENZG"
+googleAnalytics = "G-ZBX94MFPPC"
 baseURL = "http://www.masimpa.com"
 canonifyURLs = true
 enableEmoji = true
