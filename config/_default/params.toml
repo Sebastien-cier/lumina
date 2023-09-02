@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "productions audiovisuelles evenementiel mariages"
+    description = "Spécialisée dans la création de vidéos professionnelles scénarisées sur mesure. Films institutionnels, événementiels ou familiaux classiques et originaux."
     enableDarkMode = true
     modes = ["dark", "light"]
 # toml-docs-end main

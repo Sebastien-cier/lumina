@@ -7,7 +7,7 @@ enableGitInfo = true
 
 # additional settings
 googleAnalytics = "G-RR53N0ENZG"
-baseURL = "http://localhost:1313/lumina/"
+baseURL = "http://www.masimpa.com"
 canonifyURLs = true
 enableEmoji = true
 enableRobotsTXT = true

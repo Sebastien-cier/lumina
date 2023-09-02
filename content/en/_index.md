@@ -1,4 +1,0 @@
----
-author: Sébastien Cier
-title: 
----

@@ -25,11 +25,11 @@ min-height: 100%;
 }
 
   @font-face {
-  	font-family: 'linus';
+  	font-family: 'linusn';
   	font-weight: 400;
-  	src: url(‘/fonts/Linus.ttf’) format(‘truetype’)
+  	src: url(‘/fonts/Linusn.ttf’) format(‘truetype’)
   }
 
   .fw-bold {
-    width: 500px !important;
+    font-family: 'cursive' !important;
   }
