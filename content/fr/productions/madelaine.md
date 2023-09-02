@@ -2,7 +2,8 @@
 author: Sébastien CIER
 title: Cave La Madeleine
 date: 2023-05-20
-description: 
+description:
+tags: ["evenement"]
 thumbnail: img/madeleine.jpg
 ---
 {{< image src="img/madeleine.jpg" class="rounded" title="production vidéo madeleine">}}

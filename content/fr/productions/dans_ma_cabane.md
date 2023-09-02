@@ -3,6 +3,7 @@ author: Sébastien CIER
 title: Dans ma cabane
 date: 2023-05-20
 description: Teaser, spectacle théâtral pour enfants, 1'40
+tags: ["evenement"]
 thumbnail: img/dans_ma_cabane.jpg
 ---
 {{< image src="img/dans_ma_cabane.jpg" class="rounded" title="production vidéo Dans ma cabane">}}
