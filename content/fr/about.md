@@ -22,7 +22,7 @@ showComments: false
 <p style='margin:0cm;font-size:16px'><strong><span style="font-size:27px;">Notre &eacute;quipe</span></strong></p>
 <p style='margin:0cm;font-size:16px'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px'><strong>Horia Pop</strong>, Auteur, Sc&eacute;nariste, R&eacute;alisateur, Monteur</p>
-<p style='margin:0cm;font-size:16px'><strong>Lucas Yahiaoui-Bernole</strong>, Directeur photo, Cadreur (son en option)</p>
+<p style='margin:0cm;font-size:16px'><strong>Lucas Yahiaoui-Bernole</strong>, Directeur photo, Cadreur</p>
 <p style='margin:0cm;font-size:16px'><strong>S&eacute;bastien Cier</strong>, Software ingeneering</p>
 <p style='margin:0cm;font-size:16px'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px'>Accompagnement ponctuel et selon le type de film r&eacute;alis&eacute; :</p>
