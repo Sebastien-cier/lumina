@@ -13,9 +13,9 @@ thumbnail: img/celestin.jpg
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>Librement inspir&eacute; d&apos;un &eacute;pisode de ma vie.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'>R&eacute;alisateur&nbsp;: Horia Pop</p>
-<p style='margin:0cm;font-size:16px;'>Auteur&nbsp;: Horia Pop</p>
-<p style='margin:0cm;font-size:16px;'>Casting : Horia Pop, assist&eacute; de Marion Zantedeschi</p>
+<p style='margin:0cm;font-size:16px;'><strong>R&eacute;alisateur&nbsp;: </strong>Horia Pop</p>
+<p style='margin:0cm;font-size:16px;'><strong>Auteur&nbsp;: </strong>Horia Pop</p>
+<p style='margin:0cm;font-size:16px;'><strong>Casting : </strong>Horia Pop, assist&eacute; de Marion Zantedeschi</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 
