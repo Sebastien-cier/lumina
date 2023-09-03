@@ -11,7 +11,7 @@ thumbnail: img/wolves.jpg
 
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'>Le tout dernier clip de TheWolves13, <strong><b>Rock&amp;#39;n&amp;#39;Roll</b></strong>. Tourn&eacute; &agrave; l&amp;#39;Estaque et au <strong><b>Cherrydon</b></strong>.</p>
+<p style='margin:0cm;font-size:16px;'>Le tout dernier clip de TheWolves13, <strong><b>Rock'n''Roll</b></strong>. Tourn&eacute; &agrave; l&amp;#39;Estaque et au <strong><b>Cherrydon</b></strong>.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong>Storyboard : </strong>Charlotte</p>
 <p style='margin:0cm;font-size:16px;'><strong>Captation : </strong>Lucas Yahiaoui-Bernole</p>
