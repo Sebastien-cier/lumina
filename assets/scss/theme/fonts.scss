@@ -64,9 +64,9 @@
   @font-face {
   	font-family: 'linusn';
   	font-weight: 400;
-  	src: url(‘/fonts/Linusn.ttf’) format(‘truetype’)
+  	src: url(‘../fonts/Linusn.ttf’) format(‘truetype’)
   }
 
   .fw-bold {
-    font-family: 'cursive' !important;
+    font-family: 'linusn' !important;
   }
