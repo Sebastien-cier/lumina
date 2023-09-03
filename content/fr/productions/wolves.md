@@ -4,10 +4,10 @@ title: The wolves
 date: 2022-07-28
 description: Clip musical, 4'20
 tags: ["evenement"]
-thumbnail: img/45850.jpg
+thumbnail: img/wolves.jpg
 ---
 
-{{< image src="img/45850.jpg" class="rounded" title="production vidéo 45850">}}
+{{< image src="img/wolves.jpg" class="rounded" title="production vidéo the wolves">}}
 
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
