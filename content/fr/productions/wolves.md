@@ -15,7 +15,7 @@ thumbnail: img/wolves.jpg
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong>Storyboard : </strong>Charlotte</p>
 <p style='margin:0cm;font-size:16px;'><strong>Captation : </strong>Lucas Yahiaoui-Bernole</p>
-<p style='margin:0cm;font-size:16px;'><strong>Montage : </strong>Pamela &amp;amp; Camille</p>
+<p style='margin:0cm;font-size:16px;'><strong>Montage : </strong>Pamela & Camille</p>
 <p style='margin:0cm;font-size:16px;'><strong>Enregistrement et mastering : </strong>Marc</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>

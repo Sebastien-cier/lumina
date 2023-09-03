@@ -9,13 +9,13 @@ url = "/about/"
 weight = 10
 
 [[main]]
-name = "Productions"
-url = "/productions/"
+name = "Prestations"
+url = "/prestations/"
 weight = 20
 
 [[main]]
-name = "Prestations"
-url = "/prestations/"
+name = "Productions"
+url = "/productions/"
 weight = 30
 
 #[[main]]
