@@ -2,5 +2,5 @@
 draft: false
 outputs:
 - xml
-url: browserconfig.xml
+url: browserconfig.xml 
 ---
