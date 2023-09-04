@@ -55,7 +55,7 @@ weight = 30
 [[main]]
 name = "Contact"
 url = "/contact/"
-weight = 36
+weight = 40
 
 #[[main]]
 #name = "Tags"
