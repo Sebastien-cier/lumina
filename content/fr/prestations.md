@@ -4,7 +4,7 @@ date: 2022-04-11
 updated: 2023-02-11
 showComments: false
 ---
-<p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;font-family:"linus";'>Voyage dans le temps : votre histoire en images</span></strong></p>
+<p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;'>Voyage dans le temps : votre histoire en images</span></strong></p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&Agrave; partir de vos photographies et/ou de vos vid&eacute;os maison, quels que soient la qualit&eacute; de vos photographies et vid&eacute;os (anciennes, floues, mal cadr&eacute;es&hellip;) notre &eacute;quipe de sc&eacute;nariste(s) de cin&eacute;ma, r&eacute;alisateur(s) et monteur(s) professionnel(s) s&apos;engage &agrave; cr&eacute;er sur mesure un <strong><em>film r&eacute;tro&nbsp;</em></strong>&agrave; votre image.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
@@ -31,7 +31,7 @@ showComments: false
 <p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/tags/retro">Films r&eacute;tros&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;font-family:"linus";'>Capteur d&apos;&eacute;v&eacute;nements</span></strong></p>
+<p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;'>Capteur d&apos;&eacute;v&eacute;nements</span></strong></p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>Nous couvrons avec passion, dynamisme et professionnalisme votre &eacute;v&eacute;nement artistique ou votre film institutionnel quelle que soit sa forme : films publicitaires pour mettre en lumi&egrave;re votre commerce, captations de pi&egrave;ces de th&eacute;&acirc;tre, vid&eacute;os d&apos;arts de rue, interviews&hellip;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp;</p>
@@ -58,7 +58,8 @@ showComments: false
 <p style='margin:0cm;font-size:16px;text-align:justify;'><em>&nbsp;</em></p>
 <p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/tags/evenement">Films &eacute;v&eacute;nementiels&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'><strong><span style='font-size:32px;font-family:"linus";'>Mille routes et une vie : tout un h&eacute;ritage !</span></strong></p>
+<p style='margin:0cm;font-size:16px;'>&nbsp;</p>
+<p style='margin:0cm;font-size:16px;'><strong><span style='font-size:32px;'>Mille routes et une vie : tout un h&eacute;ritage !</span></strong></p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>Prenez le temps de remonter le fil de votre vie &ndash; de vos racines familiales au temps pr&eacute;sent &ndash; pour parler de votre histoire riche &agrave; ceux que vous aimez.</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>Votre biographie film&eacute;e, classique ou d&eacute;cal&eacute;e, sera le cadeau original rempli d&apos;amour pour votre famille !</p>
