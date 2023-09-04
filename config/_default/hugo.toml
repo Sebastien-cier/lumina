@@ -7,7 +7,7 @@ enableGitInfo = true
 
 # additional settings
 googleAnalytics = "G-ZBX94MFPPC"
-baseURL = "http://www.masimpa.com"
+baseURL = "https://www.masimpa.com"
 canonifyURLs = true
 enableEmoji = true
 enableRobotsTXT = true
@@ -22,7 +22,7 @@ timeout = "180s"
 # toml-docs-end timeout
 
 # toml-docs-start language
-languageCode = "fr-FR"
+languageCode = "en-us"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 # toml-docs-end language
