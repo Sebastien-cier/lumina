@@ -8,7 +8,7 @@ showComments: false
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:center;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:center;'><strong><span style="font-size:27px;">contact@masimpa.com</span></strong></p>
+<p style='margin:0cm;font-size:16px;text-align:center;'><strong><span style="font-size:27px;"><a href="mailto:contact@masimpa.com">contact@masimpa.com</a></span></strong></p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:center;'><strong><span style="font-size:27px;">Horia Alexandru Pop</span></strong></p>
