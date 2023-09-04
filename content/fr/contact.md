@@ -2,7 +2,6 @@
 title: Contact
 showComments: false
 ---
-<p style='margin:0cm;font-size:16px;text-align:center;'><span style="font-size:35px;">&nbsp;</span></p>
 <p style='margin:0cm;font-size:16px;text-align:center;'><span style="font-size:27px;">Pour toute question, information ou devis,</span></p>
 <p style='margin:0cm;font-size:16px;text-align:center;'><span style="font-size:27px;">vous pouvez nous contacter &agrave; l&apos;adresse ci-bas</span></p>
 <p style='margin:0cm;font-size:16px;text-align:center;'><span style="font-size:27px;">ou par t&eacute;l&eacute;phone</span></p>
