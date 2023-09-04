@@ -16,7 +16,7 @@ showComments: false
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16px'>A l&apos;&eacute;t&eacute; 2023, <strong><span style='font-size:32px;font-family:"linus";'>Masimpa Productions</span></strong> est n&eacute;e.</p>
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16pxtext-align:center;'>______</p>
+<p style='margin:0cm;font-size:16px;text-align:center;'>______</p>
 <p style='margin:0cm;font-size:16pxtext-align:center;'>&nbsp;</p>  
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16px'><strong><span style="font-size:27px;">Notre &eacute;quipe</span></strong></p>
