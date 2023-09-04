@@ -2,9 +2,7 @@
 title: A propos
 date: 2022-04-11
 updated: 2023-02-11
-showComments: false
-type: page
-menu: main
+showComments: true
 ---
 <p style='margin:0cm;font-size:16px'>Horia Alexandru Pop est un v&eacute;ritable <strong>passionn&eacute; de cin&eacute;ma</strong> depuis l&apos;enfance.</p>
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
