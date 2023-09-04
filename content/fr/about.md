@@ -14,7 +14,7 @@ showComments: false
 <p style='margin:0cm;font-size:16px'>&nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16pxtext-align:justify;'>Diplom&eacute;, il poursuit avec l&apos;<strong>&eacute;criture</strong>, la <strong>r&eacute;alisation</strong> et le <strong>montage</strong> &ndash; de films de fiction, institutionnels, des captations de pi&egrave;ces de th&eacute;&acirc;tre, des teasers promotionnels pour des entreprises et des particuliers&hellip;</p>
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px'>A l&apos;&eacute;t&eacute; 2023, <strong><span style='font-size:24px;font-family:"Linus",sans-serif;'>Masimpa Productions</span></strong> est n&eacute;e.</p>
+<p style='margin:0cm;font-size:16px'>A l&apos;&eacute;t&eacute; 2023, <strong><span style='font-size:24px;font-family:"Linus" !important;'>Masimpa Productions</span></strong> est n&eacute;e.</p>
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16pxtext-align:center;'>______</p>
 <p style='margin:0cm;font-size:16pxtext-align:center;'>&nbsp;</p>  

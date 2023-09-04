@@ -6,7 +6,7 @@ showComments: false
 ---
 <p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;font-family:"Linus",sans-serif;'>Voyage dans le temps&nbsp;: votre histoire en images</span></strong></p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>&Agrave; partir de vos photographies et/ou de vos vid&eacute;os maison, quels que soient la qualit&eacute; de vos photographies et vid&eacute;os (anciennes, floues, mal cadr&eacute;es&hellip;) notre &eacute;quipe de sc&eacute;nariste(s) de cin&eacute;ma, r&eacute;alisateur(s)et monteur(s) professionnel(s) s&apos;engage &agrave; cr&eacute;er sur mesure un <strong><em>film r&eacute;tro&nbsp;</em></strong>&agrave; votre image.</p>
+<p style='margin:0cm;font-size:16px;text-align:justify;'>&Agrave; partir de vos photographies et/ou de vos vid&eacute;os maison, quels que soient la qualit&eacute; de vos photographies et vid&eacute;os (anciennes, floues, mal cadr&eacute;es&hellip;) notre &eacute;quipe de sc&eacute;nariste(s) de cin&eacute;ma, r&eacute;alisateur(s) et monteur(s) professionnel(s) s&apos;engage &agrave; cr&eacute;er sur mesure un <strong><em>film r&eacute;tro&nbsp;</em></strong>&agrave; votre image.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong><em></em></strong>A qui s&apos;adresse-t-on ?</p>
 <ul style="margin:0cm;list-style-type: disc;">
