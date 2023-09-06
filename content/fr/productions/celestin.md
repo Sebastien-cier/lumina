@@ -10,7 +10,7 @@ thumbnail: img/celestin.jpg
 
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'>C&eacute;lestin, jeune homme na&iuml;f et plein d&apos;imagination r&ecirc;ve d&apos;obtenir enfin son premier r&ocirc;le au cin&eacute;ma. Mais sur la route vers la gloire, il y a les castings, les directeurs de castings et... une demi-moustache terriblement embarrassante&nbsp;!</p>
+<p style='margin:0cm;font-size:16px;'>C&eacute;lestin, jeune homme na&iuml;f et plein d&apos;imagination r&ecirc;ve d&apos;obtenir enfin son premier r&ocirc;le au cin&eacute;ma. Mais sur la route vers la gloire, il y a les castings, les directeurs de castings et&hellip; une demi-moustache terriblement embarrassante&nbsp;!</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong>Auteur&nbsp;: </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>R&eacute;alisateur&nbsp;: </strong>Horia Pop</p>
