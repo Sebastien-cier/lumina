@@ -28,7 +28,7 @@ showComments: false
     </ul>
 </div>
 <p style='margin:0cm;font-size:16px;text-align:justify;'><em>&nbsp;</em></p>
-<p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/tags/retro">Retros movies&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
+<p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/en/tags/retro">Retros movies&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;'>Events sensor</span></strong></p>
@@ -56,7 +56,7 @@ showComments: false
     </ul>
 </div>
 <p style='margin:0cm;font-size:16px;text-align:justify;'><em>&nbsp;</em></p>
-<p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/tags/evenement">Events movies&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
+<p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/en/tags/event">Events movies&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong><span style='font-size:32px;'>One thousand roads and a single life: what a legacy!</span></strong></p>
@@ -85,4 +85,4 @@ showComments: false
     </ul>
 </div>
 <p style='margin:0cm;font-size:16px;text-align:justify;'><em>&nbsp;</em></p>
-<p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/tags/biographie">Biopic movies&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
+<p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/en/tags/biopic">Biopic movies&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
