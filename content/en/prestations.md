@@ -4,7 +4,7 @@ date: 2022-04-11
 updated: 2023-02-11
 showComments: false
 ---
-<p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;'>Travelling back in time: your story unfolded in images</span></strong></p>
+<p style='margin:0cm;font-size:16px;'><strong><span style='font-size:32px;'>Travelling back in time: your story unfolded in images</span></strong></p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>From your pictures and/or videos made at home or wherever – and whatever their qualities (be they new or old, well shot or out of focus, out of frame&hellip;) our team of screenwriter(s), director(s) and editor(s) are committed to enhance your album and create a personalized <strong><em>retro movie&nbsp;</em></strong>.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
@@ -31,7 +31,7 @@ showComments: false
 <p style='margin:0cm;font-size:16px;text-align:right;'><a class="previous" href="/en/tags/retro">Retros movies&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a></p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;'>Events sensor</span></strong></p>
+<p style='margin:0cm;font-size:16px;'><strong><span style='font-size:32px;'>Events sensor</span></strong></p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>Our team will cover with passion, energy and professionnalism your artistic or business movie – whatever its purpose : advertizing clips, plays&#39; recordings, street arts&#39; clips, interviews&hellip;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp;</p>

@@ -2,7 +2,7 @@
 author: Sébastien CIER
 title: Old clowns wanted
 date: 2023-01-14
-description: Teaser, 3'00
+description: Teaser, play, 3'00
 tags: ["event"]
 thumbnail: img/petit_boulot_vieux_clowns.jpg
 ---

@@ -2,7 +2,7 @@
 author: Sébastien CIER
 title: Petit boulot pour vieux clowns
 date: 2023-01-14
-description: Teaser, 3'00
+description: Teaser, pièce de théâtre, 3'00
 tags: ["evenement"]
 thumbnail: img/petit_boulot_vieux_clowns.jpg
 ---
