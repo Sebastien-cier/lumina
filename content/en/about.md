@@ -6,11 +6,11 @@ showComments: false
 ---
 <p style='margin:0cm;font-size:16px'>Horia Alexandru Pop is a true <strong>movie lover</strong> from childhood.</p>
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16pxtext-align:justify;'><strong>He writes both</strong>, &nbsp;in french and in english movie scripts, short stories and plays. Diverse literary magazines have published his writings in the United States.</p>
+<p style='margin:0cm;font-size:16pxtext-align:justify;'><strong>He writes both</strong> in french and in english movie scripts, short stories and plays. Diverse literary magazines have published his writings in the United States.</p>
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16pxtext-align:justify;'>He worked for an <strong>advertizing agency</strong>. They gave him a camera, two editing softwares and a computer to work on the cultural agenda of the town. He shot and edited multiple videos. from <strong>concerts</strong> to <strong>interviews</strong>, but also <strong>surveys</strong> of the local people and political members ofthe town&hellip; A tremendous love at first sight! And a perfect training school!</p>
+<p style='margin:0cm;font-size:16pxtext-align:justify;'>He worked for an <strong>advertizing agency</strong>. They gave him cameras, some editing pieces of software and a computer to work on the cultural agenda of the town. He shot and edited multiple videos. from <strong>concerts</strong> to <strong>interviews</strong>, but also <strong>surveys</strong> of the local people and political members of the town&hellip; A tremendous love at first sight! And a perfect training school!</p>
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16pxtext-align:justify;'>He passed a <strong>double training as an assistant director and as a screenwriter</strong> in a filmmaking school in Marseilles – Cinémagis Provence.</p>
+<p style='margin:0cm;font-size:16pxtext-align:justify;'>He passed a double training as an <strong>assistant director</strong> and as a <strong>screenwriter</strong> in a filmmaking school in Marseilles – Cinémagis Provence.</p>
 <p style='margin:0cm;font-size:16px'>&nbsp;&nbsp;</p>
 <p style='margin:0cm;font-size:16pxtext-align:justify;'>Once graduated, he continued with the writing, the shooting and the editing of some fiction movies, institutional videos, plays, teasers for companies and private individuals&hellip;</p>
 <p style='margin:0cm;font-size:16px'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
@@ -25,6 +25,6 @@ showComments: false
 <p style='margin:0cm;font-size:16px'><strong>Lucas Yahiaoui-Bernole</strong>, D.O.P</p>
 <p style='margin:0cm;font-size:16px'><strong>S&eacute;bastien Cier</strong>, Software ingeneering</p>
 <p style='margin:0cm;font-size:16px'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px'>According to the type of video and additional crew may join us:</p>
+<p style='margin:0cm;font-size:16px'>According to the type of video an additional crew may join us:</p>
 <p style='margin:0cm;font-size:16px'><strong>AV Technicians</strong></p>
 <p style='margin:0cm;font-size:16px'><strong>Professional Musicians</strong></p>

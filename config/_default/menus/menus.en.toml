@@ -9,12 +9,12 @@ url = "/about/"
 weight = 10
 
 [[main]]
-name = "Prestations"
+name = "Services"
 url = "/prestations/"
 weight = 20
 
 [[main]]
-name = "Realisation"
+name = "Productions"
 url = "/productions/"
 weight = 30
 

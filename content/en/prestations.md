@@ -1,12 +1,12 @@
 ---
-title: Prestations
+title: Services
 date: 2022-04-11
 updated: 2023-02-11
 showComments: false
 ---
 <p style='margin:0cm;font-size:16px;text-align:justify;'><strong><span style='font-size:32px;'>Travelling back in time: your story unfolded in images</span></strong></p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p style='margin:0cm;font-size:16px;text-align:justify;'>From your pictures and/or videos made at home or wherever – and whatever their qualities (be they new or old, well shot or out of focus, out of frame&hellip;) our team of screenwriter(s), director(s) and editor(s) are committed to enhance your album and create a personalized<strong><em>retro movie&nbsp;</em></strong>&agrave; votre image.</p>
+<p style='margin:0cm;font-size:16px;text-align:justify;'>From your pictures and/or videos made at home or wherever – and whatever their qualities (be they new or old, well shot or out of focus, out of frame&hellip;) our team of screenwriter(s), director(s) and editor(s) are committed to enhance your album and create a personalized <strong><em>retro movie&nbsp;</em></strong>.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong><em></em></strong>Whom are we addressing to?</p>
 <ul style="margin:0cm;list-style-type: disc;">
@@ -75,7 +75,7 @@ showComments: false
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>Bonus option:</p>
 <ul style="margin:0cm;list-style-type: disc;">
-    <li><em><span >possibility to shoot in the actual <strong>childhood locations</strong> !</span></em></li>
+    <li><em><span >possibility to shoot in your actual <strong>childhood locations</strong>!</span></em></li>
 </ul>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;text-align:justify;'>Quotation:</p>

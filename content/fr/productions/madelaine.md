@@ -15,7 +15,7 @@ thumbnail: img/madeleine.jpg
 <p style='margin:0cm;font-size:16px;'><strong>Cr&eacute;ation originale : </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Captation : </strong>Lucas Yahiaoui-Bernole</p>
 <p style='margin:0cm;font-size:16px;'><strong>Montage : </strong>Horia Pop</p>
-<p style='margin:0cm;font-size:16px;'><strong>Musique : </strong>Henri Salvador, Ma petite fleur.</p>
+<p style='margin:0cm;font-size:16px;'><strong>Musique : </strong>Henri Salvador, <em>Ma petite fleur</em>.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 

@@ -14,7 +14,7 @@ thumbnail: img/baptiste_celine.jpg
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong>Cr&eacute;ation originale :&nbsp;</strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Montage&nbsp;: </strong>Horia Pop</p>
-<p style='margin:0cm;font-size:16px;'><strong>Musique : </strong>Aguirre Pt1, Popol Vuh ; His morning promenade, Chaplin ; Hora Primaverii, folklore roumain</p>
+<p style='margin:0cm;font-size:16px;'><strong>Musique : </strong><em>Aguirre Pt1</em>, Popol Vuh ; <em>His morning promenade</em>, Chaplin ; <em>Hora Primaverii</em>, folklore roumain</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 

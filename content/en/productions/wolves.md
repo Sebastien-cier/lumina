@@ -11,7 +11,7 @@ thumbnail: img/wolves.jpg
 
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
-<p style='margin:0cm;font-size:16px;'>The last clip of The Wolves 13, <strong><b>Rock'n'Roll</b></strong>. Shot at l'Estaque et at the <strong><b>Cherrydon</b></strong>.</p>
+<p style='margin:0cm;font-size:16px;'>The last clip of The Wolves 13, <strong><b>Rock&#39;n&#39;Roll</b></strong>. Shot at l&#39;Estaque and at the <strong><b>Cherrydon</b></strong>.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong>Storyboard: </strong>Charlotte</p>
 <p style='margin:0cm;font-size:16px;'><strong>Shooting: </strong>Lucas Yahiaoui-Bernole</p>

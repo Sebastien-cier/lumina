@@ -14,6 +14,7 @@ thumbnail: img/celestin.jpg
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong>Screenwriter: </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Director: </strong>Horia Pop</p>
+<p style='margin:0cm;font-size:16px;'><strong>Editing: </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Casting: </strong>Horia Pop, Marion Zantedeschi</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
