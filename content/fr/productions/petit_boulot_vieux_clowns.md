@@ -18,8 +18,8 @@ thumbnail: img/petit_boulot_vieux_clowns.jpg
 <p style='margin:0cm;font-size:16px;'>Tourn&eacute; au <strong><em>Portail Coucou</em></strong>.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong>Mise en sc&egrave;ne&nbsp;: </strong>Emilia Pop</p>
-<p style='margin:0cm;font-size:16px;'><strong>R&eacute;gie&nbsp;: </strong>Emilia Pop</p>
-<p style='margin:0cm;font-size:16px;'><strong>R&eacute;alisation&nbsp;teaser&nbsp;: </strong>Emilia Pop</p>
+<p style='margin:0cm;font-size:16px;'><strong>R&eacute;gie&nbsp;: </strong>Horia Pop</p>
+<p style='margin:0cm;font-size:16px;'><strong>R&eacute;alisation&nbsp;teaser&nbsp;: </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Captation&nbsp;: </strong>Horia Pop, Lucas Yahiaoui-Bernole</p>
 <p style='margin:0cm;font-size:16px;'><strong>Montage&nbsp;: </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>

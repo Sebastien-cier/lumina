@@ -18,7 +18,7 @@ thumbnail: img/petit_boulot_vieux_clowns.jpg
 <p style='margin:0cm;font-size:16px;'>Shot at the <strong><em>Portail Coucou</em></strong>.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'><strong>Directing: </strong>Emilia Pop</p>
-<p style='margin:0cm;font-size:16px;'><strong>Stage management: </strong>Emilia Pop</p>
+<p style='margin:0cm;font-size:16px;'><strong>Stage management: </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Teaser: </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Captation: </strong>Horia Pop, Lucas Yahiaoui-Bernole</p>
 <p style='margin:0cm;font-size:16px;'><strong>Editing: </strong>Horia Pop</p>

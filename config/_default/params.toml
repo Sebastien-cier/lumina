@@ -30,7 +30,7 @@
 # toml-docs-start home
 [home]
     sections = []
-    featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
+    featurePhoto = "/img/home.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = true
     centerHeadline = false
     style = "test-homepage"
