@@ -16,7 +16,7 @@ thumbnail: img/dominique_cier.png
 <p style='margin:0cm;font-size:16px;'><strong>Director  : </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Editor : </strong>Horia Pop</p>
 <p style='margin:0cm;font-size:16px;'><strong>Cameraman  : </strong>Lucas Yahiaoui-Bernole</p>
-<p style='margin:0cm;font-size:16px;'><strong>Musique : </strong><em>Soave sia el viento, Cosi fan tutte,</em> Mozart ; <em>Lavinia and Morris, </em>an A. P. Kaczmarek ; <em>La Mémoire et la mer, </em>Léo Ferré.</p>
+<p style='margin:0cm;font-size:16px;'><strong>Musique : </strong><em>Soave sia el viento, Cosi fan tutte,</em> Mozart ; <em>Lavinia and Morris, </em>Jan A. P. Kaczmarek ; <em>La Mémoire et la mer, </em>Léo Ferré.</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 <p style='margin:0cm;font-size:16px;'>&nbsp;</p>
 
