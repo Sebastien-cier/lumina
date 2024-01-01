@@ -1,7 +1,7 @@
 ---
 author: Sébastien CIER
 title: Dominique Cier
-date: 2022-11-05
+date: 2024-01-01
 description: Interview, 1'20'56
 tags: ["biographie"]
 thumbnail: img/dominique_cier.png
