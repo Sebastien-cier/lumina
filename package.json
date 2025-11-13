@@ -67,7 +67,7 @@
     "eslint-plugin-n": "^17.0.0",
     "eslint-plugin-promise": "^7.2.1",
     "hugo-bin": "^0.149.0",
-    "markdownlint-cli2": "^0.18.0",
+    "markdownlint-cli2": "^0.19.0",
     "postcss-cli": "^11.0.0",
     "purgecss-whitelister": "^2.4.0",
     "replace-in-files-cli": "^4.0.0",
