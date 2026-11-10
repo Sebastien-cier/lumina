@@ -57,7 +57,7 @@
   "homepage": "https://gethinode.com",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^7.0.0",
-    "@fullhuman/postcss-purgecss": "^8.0.0",
+    "@fullhuman/postcss-purgecss": "^9.0.0",
     "autoprefixer": "^10.4.14",
     "cssnano": "^9.0.0",
     "cssnano-preset-advanced": "^10.0.0",
